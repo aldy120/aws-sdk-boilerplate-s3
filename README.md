@@ -20,3 +20,8 @@ yarn install
 ```
 node dynamodb.js
 ```
+
+# S3 upload example
+```
+node s3-upload.js
+```
